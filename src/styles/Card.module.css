@@ -1,0 +1,118 @@
+h2 .name{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: -0.04em;
+    text-align: left;
+}
+
+.card_content{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    height: 170px;
+    width: 324px;
+    border-radius: 10px;
+    margin-bottom: 24px;
+}
+
+.card_info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+}
+
+.types{
+    display: flex;
+    flex-direction: column;
+}
+
+.card_image{
+    height: 120px;
+    width: 120px;
+    margin: 24px;
+}
+
+.tag1{
+    height: 24px;
+    width: 55px;
+    margin-bottom: 3px;
+}
+
+.tag2{
+    height: 24px;
+    width: 60px;
+}
+
+.normal{
+    background-color: #A8A77A1A;
+}
+
+.fire{
+    background-color: #EE81301A;
+}
+
+.water{
+    background-color: #6390F01A;
+}
+
+.electric{
+    background-color: #F7D02C1A;
+}
+
+.grass{
+    background-color: #7AC74C1A;
+}
+
+.ice{
+    background-color: #96D9D61A;
+}
+
+.fighting{
+    background-color: #C22E281A;
+}
+
+.poison{
+    background-color: #A33EA11A;
+}
+
+.ground{
+    background-color: #E2BF651A;
+}
+
+.flying{
+    background-color: #A98FF31A;
+}
+
+.psychic{
+    background-color: #F955871A;
+}
+
+.bug{
+    background-color: #A6B91A1A;
+}
+
+.rock{
+    background-color: #B6A1361A;
+}
+
+.ghost{
+    background-color: #7357971A;
+}
+
+.dragon{
+    background-color: #6F35FC1A;
+}
+
+.dark{
+    background-color: #7057461A;
+}
+
+.steel{
+    background-color: #B7B7CE1A;
+}
+
+.fairy{
+    background-color: #D685AD1A;
+}
